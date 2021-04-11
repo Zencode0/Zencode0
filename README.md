@@ -32,6 +32,7 @@
 
 [<img align="left" alt="JavaScript" width="50px" src="https://miro.medium.com/max/1052/1*DN7ToydkJZEdVaJVK_Nhvw.png" />][webdevplaylist]
 
+[<img align="left" alt="Node.js" width="50px" src="https://www.mshowto.org/images/articles/2021/03/one-cikan-fotograf.jpg" />][webdevplaylist]
 
 
 
