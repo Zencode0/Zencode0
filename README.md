@@ -21,9 +21,6 @@
 
 [<img align="left" alt="Visual Studio Code" width="90px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
 
-[<img align="left" alt="PyCharm" width="90px" src="https://miro.medium.com/max/1200/1*6Dhu1H4t028lOGbaZuyRCw.png" />][webdevplaylist]
-
-[<img align="left" alt="Python" width="90px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" />][webdevplaylist]
 
 [<img align="left" alt="HTML5" width="90px" src="https://img2.pngindir.com/20180330/owe/kisspng-html-logo-world-wide-web-consortium-coding-5abed048b59401.6404065315224546007438.jpg" />][webdevplaylist]
 
@@ -40,39 +37,3 @@
 
 
 
-
-<br />
-<br />
-<br />
-
----
-
-### 📺 Latest YouTube Videos
-
-
-### 📕 Latest Blog Posts
-
-
-
-  
-
-</details>
-
-
-
-
-
-
-[youtube]: https://www.youtube.com/channel/UCLkimDVnOGff-yNHBsWjQgg?view_as=subscriber
-
-[instagram]: https://www.instagram.com/eren.glr_bg/
-
-
-
-[webdevplaylist]: j
-
-[jsplaylist]: https://www.google.com/url?sa=i&url=https%3A%2F%2Ftr.bitdegree.org%2Ftutorial%2Fjavascript-egitimi%2F&psig=AOvVaw2nmZ2xjGZiEvJwfVH-vHwm&ust=1605837358068000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNiCg7_Aje0CFQAAAAAdAAAAABAD
-
-[cssplaylist]: https://www.google.com/url?sa=i&url=https%3A%2F%2Fata.com.tr%2Fblog-detay%2Fcss3-nedir-190&psig=AOvVaw16-vAl1iSUpbgIMTTkmJVg&ust=1605837392282000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOjxy83Aje0CFQAAAAAdAAAAABAJ
-
-[reactplaylist]: https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40peacecwz%2Freactjs-app-i-azure-web-app-e-deploy-etmek-ac913185bb5c&psig=AOvVaw3Fn3cBcgt9jwyZvXr2C5rA&ust=1605837404967000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIjwwdTAje0CFQAAAAAdAAAAABAD
