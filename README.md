@@ -35,7 +35,18 @@
 
 
 
+### My Using Technologies
 
+- HTML5
+- CSS3
+- JavaScript
+- React.JS
+- Tailwind CSS
+- Bootstrap
+- SCSS
+- Frame Motion
+- Firebase
+- NodeJS
 
 
 
