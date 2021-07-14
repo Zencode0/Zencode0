@@ -47,6 +47,8 @@
 - Frame Motion
 - Firebase
 - NodeJS
+- Discord.JS
+- Insta.JS
 
 
 
