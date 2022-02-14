@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Be A Master Python Developer ❤️
 - ⚡ Fun fact: I like stay with my family , play video games
-- 🐍 Python Developer
+- 🧱 Full-Stack Developer
 
 
 
