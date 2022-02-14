@@ -24,7 +24,11 @@
 ### My Using Technologies
 
 <br>
-- Python
+- JavaScript
+- React Native
+- Angular
+- C#
+- PHP
 
 
 
