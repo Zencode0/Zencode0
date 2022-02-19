@@ -21,7 +21,7 @@
 
 <img title="JavaScript" align="left" alt="JavaScript" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" />
 
-<img title="React Native" align="left" alt="React Native" width="120px" src="https://maziar.io/blog/wp-content/uploads/react-native.png" />
+<img title="React Native" align="left" alt="React Native n ReactJS" width="120px" src="https://maziar.io/blog/wp-content/uploads/react-native.png" />
 
 <img title="Angular" align="left" alt="Angular" width="90px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/800px-Angular_full_color_logo.svg.png" />
 
