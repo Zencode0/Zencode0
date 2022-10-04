@@ -1,32 +1,39 @@
-### Hi there, I'm Eren  👋
+<h1 align="center">Hi 👋, I'm Eren , Welcome To My GitHub</h1>
+<h3 align="center">Step By Step To Be Full-Stack Developer</h3>
 
+- 🎌I'm From **Bulgaria**
 
-## I'm a Teenager, Student, Developer!!
+- 🌱 I’m currently learning **JavaScript**
 
+- 📕I'm Reading on High School **English Language and Literature**
 
-<img title="Visual Studio Code" align="left" alt="Visual Studio Code" width="80px" src="https://media.discordapp.net/attachments/750283896800673832/1026653696316166245/Screenshot_1.png?width=627&height=474" />
+- 👨‍💻 All of my projects are available at [Soon...](Soon...)
 
+- 📝 I regularly write articles on [Soon...](Soon...)
 
+- 💬 Ask me about **JavaScript , HTML5 , CSS3**
 
-<br />
+- 📫 How to reach me **Kitnitsa#4100 Discord**
 
-### Languages and Tools:
+- 📄 Know about my experiences [Soon...](Soon...)
 
-<img title="Visual Studio Code" align="left" alt="Visual Studio Code" width="80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+- ⚡ Fun fact **Kodla Kodlayabildiğine !**
 
-<img title="JavaScript" align="left" alt="JavaScript" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" />
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-<img title="React Native" align="left" alt="React Native n ReactJS" width="120px" src="https://maziar.io/blog/wp-content/uploads/react-native.png" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/kitnitsa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kitnitsa" height="30" width="40" /></a>
+<a href="https://instagram.com/eren.glr_bg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eren.glr_bg" height="30" width="40" /></a>
+</p>
 
-<img title="Angular" align="left" alt="Angular" width="90px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/800px-Angular_full_color_logo.svg.png" />
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-<img title="C#" align="left" alt="C#" width="150px" src="https://www.avenga.com/wp-content/uploads/2020/11/C-Sharp.png" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zencode0&show_icons=true&locale=en&layout=compact" alt="zencode0" /></p>
 
-<img title="PHP" align="left" alt="PHP" width="150px" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zencode0&show_icons=true&locale=en" alt="zencode0" /></p>
 
-
-
-
-
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zencode0&" alt="zencode0" /></p>
