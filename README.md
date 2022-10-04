@@ -3,13 +3,8 @@
 
 ## I'm a Teenager, Student, Developer!!
 
-- 🔭 I hope be a awesome programmer!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Increasing About Full-Stack Development ❤️
-- ⚡ Fun fact: I like stay with my family , play video games
-- 🧱 Full-Stack Developer
 
+<img title="Visual Studio Code" align="left" alt="Visual Studio Code" width="80px" src="https://media.discordapp.net/attachments/750283896800673832/1026653696316166245/Screenshot_1.png?width=627&height=474" />
 
 
 
