@@ -3,7 +3,7 @@
 
 - 🎌I'm From **Bulgaria**
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **ReactJS and MongoDB**
 
 - 📕I'm Reading on High School **English Language and Literature**
 
